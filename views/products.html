@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+</head>
+<body class="container">
+   
+    <h1>productos</h1>
+    
+   <hr>
+    
+  <label for="">Filtrar por:</label>
+    <select name="" id="select-filter">
+        <option value="category">Categoria</option>
+        <option value="description">Descripcion</option>
+        <option value="title" selected>Nombre</option>
+        <option value="price" >Precio</option>
+    </select>
+
+    <input class="mr-4" placeholder="filtrar" id="input-filter">
+    <button class="btn btn-secondary" id="btn-filter">Filtrar</button>
+    <button class="btn btn-secondary" id="btn-list">Listar Todo</button>
+    <br>
+    <br>
+    <button class="btn btn-secondary" id="btn-order-by_product">Ordenar por Nombre</button>
+    <button class="btn btn-secondary" id="btn-order-by_category">Ordenar por Categoria</button>
+    <button class="btn btn-secondary" id="btn-order-by_price">Ordenar por Precio</button>
+
+    
+    <div id="root"></div>
+
+</body>
+
+
+<script>
+
+    const selectFilter=document.getElementById("select-filter")
+    const inputFilter =document.getElementById("input-filter")
+    const btnList=document.getElementById("btn-list")
+    const btnFilter=document.getElementById("btn-filter")
+    const btnOrderByProduct=document.getElementById("btn-order-by_product")
+    const btnOrderByCategory=document.getElementById("btn-order-by_category")
+    const btnOrderByPrice=document.getElementById("btn-order-by_price")
+
+
+    const container=document.getElementById("root")
+
+    btnList.addEventListener('click',()=>{
+        
+        getResponse('http://localhost:8000/products/listar/""/""')
+
+    })
+
+
+    btnOrderByProduct.addEventListener('click',()=>{
+
+        getResponse('http://localhost:8000/products/ordenar/""/Title')
+
+    })
+
+    btnOrderByPrice.addEventListener('click',()=>{
+
+        getResponse('http://localhost:8000/products/ordenar/""/Price')
+
+    })  
+
+    btnOrderByCategory.addEventListener('click',()=>{
+
+        getResponse('http://localhost:8000/products/ordenar/""/Category')
+
+    })
+
+    btnFilter.addEventListener('click',()=>{
+        
+        getResponse(`http://localhost:8000/products/filtrar/${selectFilter.value}/${inputFilter.value}`)
+        
+    })
+
+
+    const getResponse=(url)=>{
+        dropChild(container)
+        fetch(url)
+        .then(res=>res.json())
+        .then(res=>{
+            console.log(res)
+            res.forEach(element => {
+                let HTMLString=`
+                                <div class="col-sm-6 col-lg-4 mb-4 ml-6 mt-4">
+                                    <div class="card">  
+                                        <div class="card-body">
+                                            <h4 class="card-title">${element.Category}</h4>
+                                            <h6 class="card-title">${element.Title}</h6>
+                                            <p class="card-text">${element.Description}</p>
+                                            <p class="card-text"><small class="text-muted">${element.Price}</small></p>
+                                        </div>
+                                    </div>
+                                </div>
+                                `;
+                container.innerHTML+=HTMLString
+             });
+          
+        })
+        .catch()
+
+    }
+
+    const dropChild=(node)=>{
+        while(node.hasChildNodes()){
+            node.removeChild(node.firstChild)
+        }
+    }
+    
+</script>
+</html>

@@ -1,0 +1,1031 @@
+[
+    {
+        "Category": "Phones / Touch",
+        "Title": "Nokia 123",
+        "Price": "$24.99",
+        "Description": "7 day battery",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Phones / Touch",
+        "Title": "LG Optimus",
+        "Price": "$57.99",
+        "Description": "3.2\" screen",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Phones / Touch",
+        "Title": "Samsung Galaxy",
+        "Price": "$93.99",
+        "Description": "5 mpx. Android 5.0",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Phones / Touch",
+        "Title": "Nokia X",
+        "Price": "$109.99",
+        "Description": "Andoid, Jolla dualboot",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Phones / Touch",
+        "Title": "Sony Xperia",
+        "Price": "$118.99",
+        "Description": "GPS, waterproof",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Phones / Touch",
+        "Title": "Ubuntu Edge",
+        "Price": "$499.99",
+        "Description": "Sapphire glass",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Phones / Touch",
+        "Title": "Iphone",
+        "Price": "$899.99",
+        "Description": "White",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Phones / Touch",
+        "Title": "Iphone",
+        "Price": "$899.99",
+        "Description": "Silver",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Phones / Touch",
+        "Title": "Iphone",
+        "Price": "$899.99",
+        "Description": "Black",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Asus VivoBook X4...",
+        "Price": "$295.99",
+        "Description": "Asus VivoBook X441NA-GA190 Chocolate Black, 14\", Celeron N3450, 4GB, 128GB SSD, Endless OS, ENG kbd",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Prestigio SmartB...",
+        "Price": "$299.00",
+        "Description": "Prestigio SmartBook 133S Dark Grey, 13.3\" FHD IPS, Celeron N3350 1.1GHz, 4GB, 32GB, Windows 10 Pro + Office 365 1 gadam",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Prestigio SmartB...",
+        "Price": "$299.00",
+        "Description": "Prestigio SmartBook 133S Gold, 13.3\" FHD IPS, Celeron N3350 1.1GHz, 4GB, 32GB, Windows 10 Pro + Office 365 1 gadam",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Aspire E1-510",
+        "Price": "$306.99",
+        "Description": "15.6\", Pentium N3520 2.16GHz, 4GB, 500GB, Linux",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Lenovo V110-15IA...",
+        "Price": "$321.94",
+        "Description": "Lenovo V110-15IAP, 15.6\" HD, Celeron N3350 1.1GHz, 4GB, 128GB SSD, Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Lenovo V110-15IA...",
+        "Price": "$356.49",
+        "Description": "Asus VivoBook 15 X540NA-GQ008T Chocolate Black, 15.6\" HD, Pentium N4200, 4GB, 500GB, Windows 10 Home, En kbd",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Hewlett Packard...",
+        "Price": "$364.46",
+        "Description": "Hewlett Packard 250 G6 Dark Ash Silver, 15.6\" HD, Celeron N3060 1.6GHz, 4GB, 128GB SSD, DOS",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Acer Aspire 3 A3...",
+        "Price": "$372.70",
+        "Description": "Acer Aspire 3 A315-31 Black, 15.6\" HD, Celeron N3350 1.1GHz, 4GB, 128GB SSD, Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Acer Aspire A315...",
+        "Price": "$379.94",
+        "Description": "Acer Aspire A315-31-C33J Black 15.6\", HD, Celeron N3350, 4GB DDR3L, 128GB, Windows 10 Home, ENG",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Acer Aspire ES1-...",
+        "Price": "$379.95",
+        "Description": "Acer Aspire ES1-572 Black, 15.6\" HD, Core i3-6006U, 4GB, 128GB SSD, Linux",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Acer Aspire 3 A3...",
+        "Price": "$391.48",
+        "Description": "Acer Aspire 3 A315-31 Black, 15.6\" HD, Pentium N4200 1.1GHz, 4GB, 128GB SSD, Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Acer Aspire 3 A3...",
+        "Price": "$393.88",
+        "Description": "Acer Aspire 3 A315-21, 15.6\", AMD A4-9120. 4GB. 128GB SSD, Linux",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Asus VivoBook Ma...",
+        "Price": "$399.00",
+        "Description": "Asus VivoBook Max X541NA-GQ041 Black Chocolate, 15.6\" HD, Pentium N4200 1.1GHz, 4GB, 500GB, Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Asus VivoBook E5...",
+        "Price": "$399.99",
+        "Description": "Asus VivoBook E502NA-GO022T Dark Blue, 15.6\" HD, Pentium N4200 1.1GHz, 4GB, 128GB SSD, Windows 10 Home, En/Ru kbd",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Lenovo ThinkPad...",
+        "Price": "$404.23",
+        "Description": "Lenovo ThinkPad E31-80, 13.3\" HD, Celeron 3855U 1.6GHz, 4GB, 128GB SSD, Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Acer Aspire 3 A3...",
+        "Price": "$408.98",
+        "Description": "Acer Aspire 3 A315-31 Black, 15.6\" HD, Pentium N4200 1.1GHz, 4GB, 128GB SSD, Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Lenovo V110-15IS...",
+        "Price": "$409.63",
+        "Description": "Lenovo V110-15ISK, 15.6\" HD, Core i3-6006U, 8GB, 128GB SSD, Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Acer Aspire ES1-...",
+        "Price": "$410.46",
+        "Description": "Acer Aspire ES1-732 Black, 17.3\" HD+, Celeron, N3350, 4GB, 1TB, Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Asus VivoBook 15...",
+        "Price": "$410.66",
+        "Description": "Asus VivoBook 15 X540NA-GQ026T Chocolate Black, 15.6\" HD, Pentium N4200, 4GB, 128GB SSD, Windows 10 Home, En/Ru kbd",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Packard 255 G2",
+        "Price": "$416.99",
+        "Description": "15.6\", AMD E2-3800 1.3GHz, 4GB, 500GB, Windows 8.1",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Asus EeeBook R41...",
+        "Price": "$433.30",
+        "Description": "Asus EeeBook R416NA-FA014T, 14\" FHD, Pentium N4200, 4GB, 128GB eMMC, Windows 10 Home, Eng kbd",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Acer Aspire 3 A3...",
+        "Price": "$436.29",
+        "Description": "Acer Aspire 3 A315-51, 15.6\" HD, Core i3-6006U, 4GB, 1TB, Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Acer Aspire ES1-...",
+        "Price": "$436.29",
+        "Description": "Acer Aspire ES1-572 Black, 15.6\" HD, Core i3-6006U, 4GB, 500GB, Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Acer Extensa 15...",
+        "Price": "$439.73",
+        "Description": "Acer Extensa 15 (2540) Black, 15.6\" HD, Core i5-7200U, 4GB, 500GB, Linux",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Acer Aspire ES1-...",
+        "Price": "$454.62",
+        "Description": "Acer Aspire ES1-572 Black, 15.6\" HD, Core i5-7200U, 4GB, 500GB, Linux",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Lenovo V110-15IS...",
+        "Price": "$454.73",
+        "Description": "Lenovo V110-15ISK, 15.6\" HD, Core i3-6006U, 4GB, 128GB SSD, Windows 10 Pro",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Acer Aspire A315...",
+        "Price": "$457.38",
+        "Description": "Acer Aspire A315-51-33TG, Black 15.6\" HD, Core i3-7100U, 4GB DDR4, 128GB SSD, Windows 10 Home, ENG",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Lenovo V110-15IK...",
+        "Price": "$465.95",
+        "Description": "Lenovo V110-15IKB, 15.6\" HD, Core i5-7200U, 4GB, 500GB, DOS",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Asus VivoBook 15...",
+        "Price": "$468.56",
+        "Description": "Asus VivoBook 15 X540UA-DM260 Chocolate Black, 15.6\" FHD, Core i3-6006U, 4GB, 256GB SSD, Endless OS, En kbd",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Acer Aspire ES1-...",
+        "Price": "$469.10",
+        "Description": "Acer Aspire ES1-572 Black, 15.6\" HD, Core i3-6006U, 4GB, 128GB SSD, Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Lenovo V510 Blac...",
+        "Price": "$484.23",
+        "Description": "Lenovo V510 Black, 14\" HD, Core i3-6006U, 4GB, 128GB SSD, Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Acer Aspire ES1-...",
+        "Price": "$485.90",
+        "Description": "Acer Aspire ES1-572 Black, 15.6\" HD, Core i5-7200U, 4GB, 128GB SSD, Linux",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Lenovo V510 Blac...",
+        "Price": "$487.80",
+        "Description": "Lenovo V510 Black, 15.6\" HD, Core i3-6006U, 4GB, 128GB SSD, Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Acer Swift 1 SF1...",
+        "Price": "$488.64",
+        "Description": "Acer Swift 1 SF113-31 Silver, 13.3\" FHD, Pentium N4200, 4GB, 128GB SSD, Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Dell Vostro 15",
+        "Price": "$488.78",
+        "Description": "Dell Vostro 15 (3568) Black, 15.6\" FHD, Core i5-7200U, 4GB, 128GB SSD, Radeon R5 M420 2GB, Linux",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Acer Aspire 3 A3...",
+        "Price": "$494.71",
+        "Description": "Acer Aspire 3 A315-51 Black, 15.6\" FHD, Core i3-7100U, 4GB, 500GB + 128GB SSD, Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Dell Vostro 15 (...",
+        "Price": "$497.17",
+        "Description": "Dell Vostro 15 (3568) Red, 15.6\" HD, Core i5-7200U, 4GB, 1TB, Radeon R5 M420 2GB, Linux",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Lenovo V510 Blac...",
+        "Price": "$498.23",
+        "Description": "Lenovo V510 Black, 15.6\" FHD, Core i3-7100U, 4GB, 128GB SSD, Windows 10 Pro",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "HP 250 G3",
+        "Price": "$520.99",
+        "Description": "15.6\", Core\u00a0i5-4210U, 4GB, 500GB, Windows 8.1",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Acer Spin 5",
+        "Price": "$564.98",
+        "Description": "Acer Spin 5 SP513-51 Black, 13.3\" FHD Touch, Core i3-7100U, 4GB, 128GB SSD, Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "HP 350 G1",
+        "Price": "$577.99",
+        "Description": "15.6\", Core i5-4200U, 4GB, 750GB, Radeon HD8670M 2GB, Windows",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Aspire E1-572G",
+        "Price": "$581.99",
+        "Description": "15.6\", Core i5-4200U, 8GB, 1TB, Radeon R7 M265, Windows 8.1",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Pavilion",
+        "Price": "$609.99",
+        "Description": "15.6\", Core i5-4200U, 6GB, 750GB, Windows 8.1",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Acer Aspire A515...",
+        "Price": "$679.00",
+        "Description": "Acer Aspire A515-51-5654, Black, 15.6\", FHD, Core i5-8250U, 8GB DDR4, 256GB SSD, Windows 10 Home, ENG",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Dell Inspiron 15",
+        "Price": "$679.00",
+        "Description": "Dell Inspiron 15 (5567) Fog Gray, 15.6\" FHD, Core i5-7200U, 8GB, 1TB, Radeon R7 M445 4GB, Linux",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Asus VivoBook S1...",
+        "Price": "$729.00",
+        "Description": "Asus VivoBook S14 (S406UA-BV041T) Starry Grey, 14\", Core i5-8250U, 8GB, 256GB SSD, Windows 10 Home, Eng kbd",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "ProBook",
+        "Price": "$739.99",
+        "Description": "14\", Core i5 2.6GHz, 4GB, 500GB, Win7 Pro 64bit",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Inspiron 15",
+        "Price": "$745.99",
+        "Description": "Moon Silver, 15.6\", Core i7-4510U, 8GB, 1TB, Radeon HD R7 M265 2GB,",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Asus ROG STRIX G...",
+        "Price": "$799.00",
+        "Description": "Asus ROG STRIX GL553VD-DM256, 15.6\" FHD, Core i5-7300HQ, 8GB, 1TB, GeForce GTX 1050 2GB, No OS",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Acer Nitro 5 AN5...",
+        "Price": "$809.00",
+        "Description": "Acer Nitro 5 AN515-51, 15.6\" FHD IPS, Core i5-7300HQ, 8GB, 1TB, GeForce GTX 1050 2GB, Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Asus ROG STRIX G...",
+        "Price": "$899.00",
+        "Description": "Asus ROG STRIX GL553VD-DM256, 15.6\" FHD, Core i5-7300HQ, 8GB, 1TB, GeForce GTX 1050 2GB, No OS + Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Lenovo ThinkPad...",
+        "Price": "$999.00",
+        "Description": "Lenovo ThinkPad L570, 15.6\" FHD, Core i7-7500U, 8GB, 256GB SSD, Windows 10 Pro",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "ThinkPad Yoga",
+        "Price": "$1033.99",
+        "Description": "12.5\" Touch, Core i3-4010U, 4GB, 500GB + 16GB SSD Cache,",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Lenovo ThinkPad...",
+        "Price": "$1096.02",
+        "Description": "Lenovo ThinkPad L460, 14\" FHD IPS, Core i7-6600U, 8GB, 256GB SSD, Windows 10 Pro",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Dell Inspiron 15...",
+        "Price": "$1098.42",
+        "Description": "Dell Inspiron 15 (7567) Black, 15.6\" FHD, Core i5-7300HQ, 8GB, 256GB SSD, GeForce GTX 1050 4GB, Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "MSI GL72M 7RDX",
+        "Price": "$1099.00",
+        "Description": "MSI GL72M 7RDX, 17.3\" FHD, Core i5-7300HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 2GB, Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "MSI GL72M 7RDX",
+        "Price": "$1099.00",
+        "Description": "Asus ROG Strix GL553VD-DM535T, 15.6\" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 2GB, Windows 10 Home, Eng kbd",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Asus ROG Strix G...",
+        "Price": "$1101.83",
+        "Description": "Apple MacBook Air 13.3\", Core i5 1.8GHz, 8GB, 128GB SSD, Intel HD 4000, RUS",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Dell Latitude 52...",
+        "Price": "$1102.66",
+        "Description": "Dell Latitude 5280, 12.5\" HD, Core i5-7300U, 8GB, 256GB SSD, Windows 10 Pro",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Dell Latitude 54...",
+        "Price": "$1110.14",
+        "Description": "Dell Latitude 5480, 14\" FHD, Core i5-7300U, 8GB, 500GB, Linux + Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Lenovo Legion Y5...",
+        "Price": "$1112.91",
+        "Description": "Lenovo Legion Y520-15IKBM, Black, 15.6\" FHD IPS, Core i5-7300HQ, 8 GB, 128GB SSD + 2 TB HDD, NVIDIA GeForce GTX 1060 6 GB, FreeDOS + Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Toshiba Portege...",
+        "Price": "$1114.55",
+        "Description": "Toshiba Portege Z30-C-16J Grey, 13.3\" FHD, Core i5-6200U, 8GB, 256GB SSD, Windows 10 Pro",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Acer Predator He...",
+        "Price": "$1123.87",
+        "Description": "Acer Predator Helios 300 (PH317-51), 17.3\" FHD IPS, Core i5-7300HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050Ti 4GB, Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Acer Aspire 7 A7...",
+        "Price": "$1123.87",
+        "Description": "Acer Aspire 7 A715-71G, 15.6\" FHD IPS, Core i7-7700HQ, 8GB, 128GB SSD + 1TB HDD, GTX 1050 Ti 4GB, Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Dell Inspiron 17...",
+        "Price": "$1124.20",
+        "Description": "Dell Inspiron 17 2in1 (7779) Silver, 17.3\" FHD Touch, Core i5-7200U, 12GB, 1TB, GeForce GT940MX 2GB, Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Dell Latitude 54...",
+        "Price": "$1133.82",
+        "Description": "Dell Latitude 5480, 14\" FHD, Core i5-7300U, 8GB, 500GB, Windows 10 Pro",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Lenovo Legion Y5...",
+        "Price": "$1133.91",
+        "Description": "Lenovo Legion Y520, 15.6\" FHD, Core i7-7700HQ, 8GB, 128 GB SSD + 1TB HDD, GTX 1050 4GB, Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Asus AsusPro Adv...",
+        "Price": "$1139.54",
+        "Description": "Asus AsusPro Advanced BU401LA-FA271G Dark Grey, 14\", Core i5-4210U, 4GB, 128GB SSD, Win7 Pro 64bit, ENG",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Acer Nitro 5 AN5...",
+        "Price": "$1140.62",
+        "Description": "Acer Nitro 5 AN515-51, 15.6\" FHD IPS, Core i7-7700HQ, 8GB, 256GB SSD +1TB, GeForce GTX 1050 Ti 4GB, Windows 10 Home + Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Dell Latitude 54...",
+        "Price": "$1143.40",
+        "Description": "Dell Latitude 5480, 14\" FHD, Core i5-7440HQ, 8GB, 256GB SSD, Windows 10 Pro",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Dell Inspiron 15...",
+        "Price": "$1144.20",
+        "Description": "Dell Inspiron 15 (7567) Black, 15.6\" FHD, Core i7-7700HQ, 8GB, 1TB, GeForce GTX 1050 Ti 4GB, Linux + Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Dell Latitude 55...",
+        "Price": "$1144.40",
+        "Description": "Dell Latitude 5580, 15.6\" FHD, Core i5-7300U, 8GB, 256GB SSD, Windows 10 Pro",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Lenovo Legion Y5...",
+        "Price": "$1149.00",
+        "Description": "Lenovo Legion Y520-15IKBM, 15.6\" FHD IPS, Core i7-7700HQ, 8GB, 128GB SSD + 1TB, GeForce GTX 1060 Max-Q 6GB, DOS",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "MSI GP62M 7RDX L...",
+        "Price": "$1149.00",
+        "Description": "MSI GP62M 7RDX Leopard, 15.6\" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 2GB, Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Lenovo Yoga 720...",
+        "Price": "$1149.73",
+        "Description": "Lenovo Yoga 720 Grey, 15.6\" FHD IPS, Core i5-7300HQ, 8GB, 256GB SSD, GeForce GTX 1050 2GB, Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Toshiba Portege...",
+        "Price": "$1154.04",
+        "Description": "Toshiba Portege Z30-C-16L Grey, 13.3\" FHD, Core i7-6500U, 8GB, 256GB SSD, Windows 10 Pro",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Acer TravelMate...",
+        "Price": "$1170.10",
+        "Description": "Acer TravelMate P645-S-511A Black, 14\" FHD IPS, Core i5-5200U, 8GB, 256GB SSD, 3G, Windows 10 Pro",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Dell Latitude 55...",
+        "Price": "$1178.19",
+        "Description": "Dell Latitude 5580, 15.6\" FHD, Core i5-7300U, 16GB, 256GB SSD, Linux + Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "ThinkPad T540p",
+        "Price": "$1178.99",
+        "Description": "15.6\", Core i5-4200M, 4GB, 500GB, Win7 Pro 64bit",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "MSI GS63 7RD Ste...",
+        "Price": "$1179.00",
+        "Description": "MSI GS63 7RD Stealth, 15.6\" FHD IPS, Core i7-7700HQ, 8GB, 256GB SSD, GeForce GTX 1050 2GB, DOS + Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Dell Latitude 54...",
+        "Price": "$1187.88",
+        "Description": "Dell Latitude 5480, 14\" FHD, Core i5-7300U, 8GB, 256GB SSD, Windows 10 Pro",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Acer Predator He...",
+        "Price": "$1187.98",
+        "Description": "Acer Predator Helios 300 (PH317-51), 17.3\" FHD IPS, Core i7-7700HQ. 8GB, 128GB SSD +1TB, GeForce GTX 1050Ti 4GB, Linux + Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "MSI GL62M 7REX",
+        "Price": "$1199.00",
+        "Description": "MSI GL62M 7REX, 15.6\" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 Ti 2GB, Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "MSI GL62M 7REX2",
+        "Price": "$1199.00",
+        "Description": "MSI GL62M 7REX2, 15.6\" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 Ti 2GB, Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Lenovo Yoga 910...",
+        "Price": "$1199.73",
+        "Description": "Lenovo Yoga 910 Grey, 13.9\" FHD Touch, Core i5-7200U, 8GB, 256GB SSD, Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Toshiba Portege...",
+        "Price": "$1203.41",
+        "Description": "Toshiba Portege X30-D-10J Black/Blue, 13.3\" FHD IPS, Core i5-7200U, 8GB, 256GB SSD, Windows 10 Pro",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Lenovo IdeaPad M...",
+        "Price": "$1212.16",
+        "Description": "Lenovo IdeaPad Miix 510 Platinum Silver, 12.2\" IPS Touch, Core i5-7200U, 8GB, 256GB SSD, 4G, Windows 10 Pro",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Acer Predator He...",
+        "Price": "$1221.58",
+        "Description": "Acer Predator Helios 300 (PH317-51), 17.3\" FHD IPS, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 Ti 4GB, Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "ThinkPad Yoga",
+        "Price": "$1223.99",
+        "Description": "12.5\" Touch, Core i5 4200U, 8GB, 500GB + 16GB SSD Cache, Windows",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Asus VivoBook Pr...",
+        "Price": "$1235.49",
+        "Description": "Asus VivoBook Pro 15 N580VN-FI006T Gold Metal, 15.6\" UHD, Core i7-7700HQ, 16GB, 1TB + 256GB SSD, GeForce MX150 2GB, Windows 10 Home, Eng kbd",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Dell Latitude 54...",
+        "Price": "$1238.37",
+        "Description": "Dell Latitude 5480, 14\" FHD, Core i7-7600U, 8GB, 256GB SSD, Linux",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Asus ZenBook UX5...",
+        "Price": "$1239.20",
+        "Description": "Asus ZenBook UX530UX-FY040T Blue, 15.6\" FHD, Core i7-7500U, 8GB, 512GB SSD, GeForce GTX950M 2GB, Windows 10 Home, Eng kbd",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "ThinkPad X230",
+        "Price": "$1244.99",
+        "Description": "12.5\", Core i5 2.6GHz, 8GB, 180GB SSD, Win7 Pro 64bit",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Asus ROG Strix G...",
+        "Price": "$1259.00",
+        "Description": "Asus ROG Strix GL753VE-GC096T, 17.3\" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1050 Ti 4GB, Windows 10 Home, Eng kbd",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Apple MacBook Ai...",
+        "Price": "$1260.13",
+        "Description": "Apple MacBook Air 13\", i5 1.8GHz, 8GB, 256GB SSD, Intel HD 6000, ENG",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Dell Latitude 54...",
+        "Price": "$1271.06",
+        "Description": "Dell Latitude 5480, 14\" FHD, Core i7-7600U, 8GB, 1TB, GeForce GT930MX, Windows 10 Pro",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Hewlett Packard...",
+        "Price": "$1273.11",
+        "Description": "Hewlett Packard Spectre 13-v106na Dark Ash Silver, 13.3\" FHD IPS, Core i5-7200U, 8GB, 256GB SSD, Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Dell XPS 13",
+        "Price": "$1281.99",
+        "Description": "13.3\" Touch, Core i5-4210U, 8GB, 128GB SSD, Windows 8.1",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Toshiba Portege...",
+        "Price": "$1294.74",
+        "Description": "Toshiba Portege Z30-C-16K Grey, 13.3\" FHD, Core i5-6200U, 8GB, 256GB SSD, 4G, Windows 10 Pro",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "MSI GL62VR 7RFX",
+        "Price": "$1299.00",
+        "Description": "MSI GL62VR 7RFX, 15.6\" FHD, Core i7-7700HQ, 8GB, 1TB + 256GB SSD, GeForce GTX 1060 3GB, Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Dell Latitude 54...",
+        "Price": "$1310.39",
+        "Description": "Dell Latitude 5480, 14\" FHD, Core i7-7600U, 8GB, 256GB SSD, Windows 10 Pro",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "ThinkPad X240",
+        "Price": "$1311.99",
+        "Description": "12.5\", Core i5-4300U, 8GB, 240GB SSD, Win7 Pro 64bit",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Hewlett Packard...",
+        "Price": "$1326.83",
+        "Description": "Hewlett Packard ProBook 640 G3, 14\" FHD, Core i7-7600U, 8GB, 256GB SSD, Windows 10 Pro",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Apple MacBook Pr...",
+        "Price": "$1333.00",
+        "Description": "Apple MacBook Pro 13\" Space Gray, Core i5 2.3GHz, 8GB, 128GB SSD, Iris Plus 640, ENG",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Dell Latitude 55...",
+        "Price": "$1337.28",
+        "Description": "Dell Latitude 5580, 15.6\" FHD, Core i7-7600U, 8GB, 256GB SSD, GeForce GT930MX, Windows 10 Pro",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Dell Latitude 54...",
+        "Price": "$1338.37",
+        "Description": "Dell Latitude 5480, 14\" FHD, Core i7-7600U, 8GB, 256GB SSD, Linux + Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Dell Latitude 55...",
+        "Price": "$1341.22",
+        "Description": "Dell Latitude 5580, 15.6\" FHD, Core i7-7600U, 16GB, 256GB SSD, GeForce GT930MX, Linux",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Apple MacBook Ai...",
+        "Price": "$1347.78",
+        "Description": "Apple MacBook Air 13\", Intel Core i5 1.8GHz, 8GB, 256GB SSD, Intel HD 6000, RUS",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Lenovo ThinkPad...",
+        "Price": "$1349.23",
+        "Description": "Lenovo ThinkPad T470, 14\" FHD IPS, Core i5-7200U, 8GB, 256GB SSD, Windows 10 Pro",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Lenovo ThinkPad...",
+        "Price": "$1362.24",
+        "Description": "Lenovo ThinkPad Yoga 370 Black, 13.3\" FHD IPS Touch, Core i5-7200U, 8GB, 256GB SSD, 4G, Windows 10 Pro",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Toshiba Portege...",
+        "Price": "$1366.32",
+        "Description": "Toshiba Portege X20W-D-10V Black/Blue, 12.5\" FHD Touch, Core i7-7500U, 8GB, 512GB SSD, Windows 10 Pro",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Asus ASUSPRO B94...",
+        "Price": "$1381.13",
+        "Description": "Asus ASUSPRO B9440UA-GV0279R Gray, 14\" FHD, Core i7-7500U, 16GB, 512GB SSD, Windows 10 Pro, Eng kbd",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Lenovo Legion Y7...",
+        "Price": "$1399.00",
+        "Description": "Lenovo Legion Y720, 15.6\" FHD IPS, Core i7-7700HQ, 8GB, 128GB SSD + 2TB HDD, GeForce GTX 1060 6GB, DOS, RGB backlit keyboard",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Asus ROG Strix G...",
+        "Price": "$1399.00",
+        "Description": "Asus ROG Strix GL702VM-GC146T, 17.3\" FHD, Core i7-7700HQ, 8GB, 1TB + 128GB SSD, GeForce GTX 1060 3GB, Windows 10 Home, Eng kbd",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Asus ROG Strix G...",
+        "Price": "$1769.00",
+        "Description": "Asus ROG Strix GL702ZC-GC154T, 17.3\" FHD, Ryzen 7 1700, 16GB, 256GB + 1TB HDD, Radeon RX 580 4GB, Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Asus ROG Strix G...",
+        "Price": "$1769.00",
+        "Description": "Asus ROG Strix GL702ZC-GC209T, 17.3\" FHD IPS, Ryzen 7 1700, 16GB, 256GB SSD + 1TB HDD, Radeon RX 580 4GB, Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Laptops",
+        "Title": "Asus ROG Strix S...",
+        "Price": "$1799.00",
+        "Description": "Asus ROG Strix SCAR Edition GL503VM-ED115T, 15.6\" FHD 120Hz, Core i7-7700HQ, 16GB, 256GB SSD + 1TB SSHD, GeForce GTX 1060 6GB, Windows 10 Home",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Tablets",
+        "Title": "Lenovo IdeaTab",
+        "Price": "$69.99",
+        "Description": "7\" screen, Android",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Tablets",
+        "Title": "IdeaTab A3500L",
+        "Price": "$88.99",
+        "Description": "Black, 7\" IPS, Quad-Core 1.2GHz, 8GB, Android 4.2",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Tablets",
+        "Title": "Acer Iconia",
+        "Price": "$96.99",
+        "Description": "7\" screen, Android, 16GB",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Tablets",
+        "Title": "Galaxy Tab 3",
+        "Price": "$97.99",
+        "Description": "7\", 8GB, Wi-Fi, Android 4.2, White",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Tablets",
+        "Title": "Iconia B1-730HD",
+        "Price": "$99.99",
+        "Description": "Black, 7\", 1.6GHz Dual-Core, 8GB, Android 4.4",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Tablets",
+        "Title": "Memo Pad HD 7",
+        "Price": "$101.99",
+        "Description": "IPS, Dual-Core 1.2GHz, 8GB, Android 4.3",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Tablets",
+        "Title": "Asus MeMO Pad",
+        "Price": "$102.99",
+        "Description": "7\" screen, Android, 8GB",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Tablets",
+        "Title": "Amazon Kindle",
+        "Price": "$103.99",
+        "Description": "6\" screen, wifi",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Tablets",
+        "Title": "Galaxy Tab 3",
+        "Price": "$107.99",
+        "Description": "7\", 8GB, Wi-Fi, Android 4.2, Yellow",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Tablets",
+        "Title": "IdeaTab A8-50",
+        "Price": "$121.99",
+        "Description": "Blue, 8\" IPS, Quad-Core 1.3GHz, 16GB, Android 4.2",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Tablets",
+        "Title": "MeMO Pad 7",
+        "Price": "$130.99",
+        "Description": "White, 7\", Atom 1.2GHz, 8GB, Android 4.4",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Tablets",
+        "Title": "IdeaTab A3500-H",
+        "Price": "$148.99",
+        "Description": "Blue, 7\" IPS, Quad-Core 1.3GHz, 8GB, 3G, Android 4.2",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Tablets",
+        "Title": "IdeaTab S5000",
+        "Price": "$172.99",
+        "Description": "Silver, 7\" IPS, Quad-Core 1.2Ghz, 16GB, 3G, Android 4.2",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Tablets",
+        "Title": "Galaxy Tab 4",
+        "Price": "$233.99",
+        "Description": "LTE (SM-T235), Quad-Core 1.2GHz, 8GB, Black",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Tablets",
+        "Title": "Galaxy Tab",
+        "Price": "$251.99",
+        "Description": "16GB, White",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Tablets",
+        "Title": "MeMo PAD FHD 10",
+        "Price": "$320.99",
+        "Description": "White, 10.1\" IPS, 1.6GHz, 2GB, 16GB, Android 4.2",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Tablets",
+        "Title": "Galaxy Note",
+        "Price": "$399.99",
+        "Description": "10.1\", 3G, Android 4.0, Garnet Red",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Tablets",
+        "Title": "Galaxy Note",
+        "Price": "$489.99",
+        "Description": "12.2\", 32GB, WiFi, Android 4.4, White",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Tablets",
+        "Title": "iPad Mini Retina",
+        "Price": "$537.99",
+        "Description": "Wi-Fi + Cellular, 32GB, Silver",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Tablets",
+        "Title": "Galaxy Note 10.1",
+        "Price": "$587.99",
+        "Description": "10.1\", 32GB, Black",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    },
+    {
+        "Category": "Computers / Tablets",
+        "Title": "Apple iPad Air",
+        "Price": "$603.99",
+        "Description": "Wi-Fi, 64GB, Silver",
+        "Img": "/images/test-sites/e-commerce/items/cart2.png"
+    }
+]
